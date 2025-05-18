@@ -49,9 +49,6 @@ Check if the issue already exists by searching in the Issues section.
 
 If not, open a new issue with a clear description of the bug or feature request.
 
-## Code of Conduct
-Please follow the Contributor Covenant Code of Conduct when contributing.
-
 ## License
 This project is open-source and available under the MIT License.
 
@@ -59,3 +56,9 @@ This project is open-source and available under the MIT License.
 Thanks to Streamlit for providing an easy-to-use framework for building web apps.
 
 The python-docx and PyPDF2 libraries were used for handling DOCX and PDF files respectively.
+
+# Author
+
+### Prathmesh Manoj Bajpai
+LinkedIn: (https://www.linkedin.com/in/prathmesh-bajpai-8429652aa/)
+
